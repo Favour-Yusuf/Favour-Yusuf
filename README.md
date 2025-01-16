@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Software Engineer
 ----------------------------
 
-But… who am I, really? Beyond the labels—the developer, the problem-solver, the creator—who am I when it’s just me and my code, stripped of all the noise? I am a builder. A creator. A visionary. For over two years, I have immersed myself in the art of coding, transforming ideas into tangible, impactful solutions. Building isn't just what I do—it's who I am. It’s the craft that fulfills me, the language through which I communicate with the world. At my core, I am light. Light, because I bring clarity to complex challenges. Light, because I transform the abstract into the functional. Light, because I spark innovation and help others shine through the work I create. My purpose is simple yet profound: To create. To transform. To empower. To craft solutions that matter—not just for today but for a future that inspires.
+But… who am I, really? Beyond the labels—the developer, the problem-solver, the creator—who am I when it’s just me and my code, stripped of all the noise? I am a builder. A creator. A visionary. For over two years, I have immersed myself in the art of coding, transforming ideas into tangible, impactful solutions. Building isn't just what I do—it's who I am. It’s the craft that fulfills me, the language through which I communicate with the world. 
+
+At my core, I am light. 
+
+Light, because I bring clarity to complex challenges. 
+Light, because I transform the abstract into the functional. 
+Light, because I spark innovation and help others shine through the work I create.
+
+My purpose is simple yet profound: To create. To transform. To empower. To craft solutions that matter—not just for today but for a future that inspires.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favouryusuf45@gmail.com](mailto:favouryusuf45@gmail.com)
